@@ -22,4 +22,5 @@ export class Playlist {
     this.navCtrl.push('Videos');
   }
 
+
 }
