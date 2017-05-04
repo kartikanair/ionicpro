@@ -20,6 +20,7 @@ export class Playlist {
 
   onstart() {
     this.navCtrl.push('Videos');
+
   }
 
 
